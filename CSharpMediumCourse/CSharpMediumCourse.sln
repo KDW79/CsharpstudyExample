@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1169
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1_ModApp", "Ch1_ModApp\Ch1_ModApp.csproj", "{5EDBF9B5-8AE5-4079-AF58-00BF97B4A777}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch1_ModLog", "Ch1_ModLog\Ch1_ModLog.csproj", "{7B8D4F7C-A023-4E8D-BD06-68CC85D8EBF4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2_IndexerTest", "Ch2_IndexerTest\Ch2_IndexerTest.csproj", "{39013D55-A105-4ECA-979E-63E02A756CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch3_MsgApp", "Ch3_MsgApp\Ch3_MsgApp.csproj", "{0748B8C6-FC7A-4FE6-B3AC-9D30248462F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{39013D55-A105-4ECA-979E-63E02A756CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39013D55-A105-4ECA-979E-63E02A756CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39013D55-A105-4ECA-979E-63E02A756CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0748B8C6-FC7A-4FE6-B3AC-9D30248462F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0748B8C6-FC7A-4FE6-B3AC-9D30248462F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0748B8C6-FC7A-4FE6-B3AC-9D30248462F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0748B8C6-FC7A-4FE6-B3AC-9D30248462F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
