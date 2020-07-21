@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch7_MyPaintCustom1", "Ch7_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch7_MyPaintItf", "MyPaintItf\Ch7_MyPaintItf.csproj", "{E686226E-7206-4541-B8F0-3C8AD6B93394}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch8_DelegTest", "Ch8_DelegTest\Ch8_DelegTest.csproj", "{A91840E7-DFA4-4D42-B153-10BB2E24D74A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E686226E-7206-4541-B8F0-3C8AD6B93394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E686226E-7206-4541-B8F0-3C8AD6B93394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E686226E-7206-4541-B8F0-3C8AD6B93394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
