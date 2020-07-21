@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch7_MyPaintItf", "MyPaintIt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch8_DelegTest", "Ch8_DelegTest\Ch8_DelegTest.csproj", "{A91840E7-DFA4-4D42-B153-10BB2E24D74A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch9_AnoMeth", "Ch9_AnoMeth\Ch9_AnoMeth.csproj", "{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A91840E7-DFA4-4D42-B153-10BB2E24D74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
