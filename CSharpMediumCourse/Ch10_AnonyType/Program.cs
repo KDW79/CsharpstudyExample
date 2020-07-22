@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // C# 익명타입 실습
-namespace Ch10_AnonyType
+namespace Ch11_AnonyType
 {
     class Program
     {
