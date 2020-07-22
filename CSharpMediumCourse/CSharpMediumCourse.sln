@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch8_DelegTest", "Ch8_DelegT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch9_AnoMeth", "Ch9_AnoMeth\Ch9_AnoMeth.csproj", "{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10_LambdaTest", "Ch10_LambdaTest\Ch10_LambdaTest.csproj", "{1B704BBA-590B-4BC3-BDAB-27872C002FD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFFBFDA-C429-4331-8F19-BBB14ED1FA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B704BBA-590B-4BC3-BDAB-27872C002FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B704BBA-590B-4BC3-BDAB-27872C002FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B704BBA-590B-4BC3-BDAB-27872C002FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B704BBA-590B-4BC3-BDAB-27872C002FD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
