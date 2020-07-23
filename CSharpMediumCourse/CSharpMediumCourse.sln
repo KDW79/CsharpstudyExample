@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10_LambdaTest", "Ch10_Lam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch11_AnonyType", "Ch10_AnonyType\Ch11_AnonyType.csproj", "{3D752F2A-9B77-4E18-81DF-F283C03667A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch12_ExtMth", "Ch12_ExtMth\Ch12_ExtMth.csproj", "{FEA44854-7EE9-404D-9F3C-9D930DBC8A6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{3D752F2A-9B77-4E18-81DF-F283C03667A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D752F2A-9B77-4E18-81DF-F283C03667A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D752F2A-9B77-4E18-81DF-F283C03667A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEA44854-7EE9-404D-9F3C-9D930DBC8A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA44854-7EE9-404D-9F3C-9D930DBC8A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA44854-7EE9-404D-9F3C-9D930DBC8A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA44854-7EE9-404D-9F3C-9D930DBC8A6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
